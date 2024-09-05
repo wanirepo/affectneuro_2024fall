@@ -120,7 +120,7 @@ R3- 1) Markus, H. R. & Kitayama, S. Culture and the self: Implications for cogni
 R4- 1) Neisser, U. Five kinds of self‐knowledge. Philos. Psychol. 1, 35–59 (1988). [link](https://www.tandfonline.com/doi/abs/10.1080/09515088808572924); 2) Nigro, G. & Neisser, U. Point of view in personal memories. Cogn. Psychol. 15, 467–482 (1983). [link](https://www.sciencedirect.com/science/article/abs/pii/0010028583900166)
 
   
-####Reading *Heinz von Foerster*:
+#### Reading *Heinz von Foerster*:
 
 R5- 1) "On Self-Organizing Systems and Their Environments" (Ch. 1 of "Understanding Understanding" or Ch. 1 of "Observing systems"). 2) "What Is Memory that It May Have Hindsight and Foresight as Well?" (Ch. 3 of "Understanding Understanding"). 
 
@@ -135,7 +135,7 @@ R9- 1) "Objects: Tokens for (Eigen-)Behaviors" (Ch. 11 of "Understanding Underst
 R10- 1) "Cybernetics of Cybernetics" (Ch. 13 of "Understanding Understanding"); 2) "Ethics and Second-Order Cybernetics", (Ch. 14 of "Understanding Understanding")
 
 
-##Previously covered
+## Previously covered
 
 - Schiller et al.(2022). The Human Affectome. [https://doi.org/10.31234/osf.io/9nu32](https://doi.org/10.31234/osf.io/9nu32)
 - Malezieux et al. (2023). Neural Circuits for Emotion. Annual Review of Neuroscience. [https://doi.org/10.1146/annurev-neuro-111020-103314](https://doi.org/10.1146/annurev-neuro-111020-103314)
