@@ -40,7 +40,7 @@ C: > 70
 
 ## Response to video lectures
 
-Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/JqmR8zt5ePmZ3XY37)
+Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/6GdNGWfxRsbBHABJ9)
 
 ## Term project
 
