@@ -40,7 +40,7 @@ C: > 70
 
 ## Response to video lectures
 
-Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/6GdNGWfxRsbBHABJ9)
+Please submit your discussion questions and comments for each video lecture through [this google form](https://forms.gle/6GdNGWfxRsbBHABJ9) before 01:00 AM on the day of class. (E.g., if we have a class 10:30 AM on 9/13, please submit the comments before 01:00 AM on 9/13). 
 
 ## Term project
 
