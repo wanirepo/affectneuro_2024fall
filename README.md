@@ -65,7 +65,7 @@ Week 11 (11/15) | Emotion regulation, embodiment | 1) [James Gross: Motivation](
 Week 12 (11/22) | Culture | 1) [Jeanne Tsai: How Culture Influences Our Emotions (and Why it Matters)](https://youtu.be/ak8eVjpNpfE?si=S5W4H1OrCAoNUf92), 2) [Antonio Damasio: The Strange Order of Things: Homeostasis, Feeling, and the Making of Cultures](https://www.youtube.com/watch?v=CAmkDrVvJ68) | Markus1991, Tsai2006 | Debate 2: "Can Artificial Intelligence ever have a *self*?"
 Week 13 (11/29) | Social brain, empathy | 1) [Christian Keysers: Neural Basis of Empathy and Prosociality across Species](https://youtu.be/VMXdKUmh-k8?t=132), 2) [Ralph Adolphs: Social brain](https://www.youtube.com/watch?v=YmuzsF9qq3I) | Reeck2015, Zaki2012 | Reading 8
 Week 14 (12/6) | Happiness, positive emotions | 1) [The Neuroscience of Happiness: Dan Gilbert, Kent Berridge, Richard Davidson](https://www.youtube.com/watch?v=8f-T7lgdLPI&feature=youtu.be), 2) [Morten L. Kringelbach: Eudaimonia and Hedonia: Brain systems for thriving and surviving](https://www.youtube.com/watch?v=F40ieWDaZUw) | Kringelbach2024  | Reading 9
-Week 15 (12/13) | Awe??, ?? | 1) [Daniel Keltner: Why Awe Is Such an Important Emotion](https://www.youtube.com/watch?v=ysAJQycTw-0) 2) ?? | - | Reading 10
+Week 15 (12/13) | Awe, Wani version of "Social brain and empathy" | 1) [Daniel Keltner: Why Awe Is Such an Important Emotion](https://www.youtube.com/watch?v=ysAJQycTw-0) 2) Social brain and empathy (will be posted soon) | - | Reading 10
 Week 16 (12/20) | Term paper | - | - | - 
 
 _Note._ Weekly plan described above can be adjusted as our class develops.
